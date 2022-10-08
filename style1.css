@@ -1,0 +1,56 @@
+img.slide{
+    height: 600px;
+}
+.img2
+{
+    height: 300px;
+    width: 300px;
+}
+.about
+{
+    height: 600px;
+    width: 100%;
+    background-color: orange;
+}
+.container1
+{
+    height: 600px;
+    width: 100%;
+    background: url(images/BG\ 1.jpg);
+    background-size: cover;
+}
+.login
+{
+    text-decoration: none;
+    text-align: center;
+    color: rgb(22, 129, 252);
+    size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 40px;
+}
+.form1
+{
+    width: 50%;
+    /* margin: 0 auto; */
+    margin: auto;
+    padding-top: 50px;
+}
+.btn
+{
+    border-radius: 50px;
+}
+.h
+{
+    font-family: 'Dancing Script', cursive;
+    padding-top: 40px;
+}
+.l
+{
+    align-items: center;
+    font-size: 20px;
+}
+h5
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+}
